@@ -92,16 +92,25 @@ const Contact = () => {
                     <Mail className="w-6 h-6 mr-4 flex-shrink-0" />
                     <div>
                       <p className="font-medium">Email Us</p>
-                      <p>contact@vishnuspire.com</p>
+                      <p>ceo@vishnuspire.com</p>
                     </div>
                   </div>
+                   <div className="flex items-start">
+                    <Mail className="w-6 h-6 mr-4 flex-shrink-0" />
+                    <div>
+                      <p className="font-medium">Email Us</p>
+                      <p>nidha@vishnuspire.com</p>
+                    </div>
+                  </div>
+                  
                   
                   <div className="flex items-start">
                     <MapPin className="w-6 h-6 mr-4 flex-shrink-0" />
                     <div>
-                      <p className="font-medium">Visit Us</p>
-                      <p>123 Marketing Street, Brand Avenue</p>
-                      <p>Mumbai, India 400001</p>
+                      <p className="font-medium">Our Locations</p>
+                      <p>Bhimavaram, Vijayawada,
+                        <br/>Guntur, Hydarabad</p>
+                  
                     </div>
                   </div>
                 </div>
