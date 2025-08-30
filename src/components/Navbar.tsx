@@ -62,8 +62,7 @@ const Navbar: React.FC<NavbarProps> = ({ scrollPosition }) => {
       <div className="container-section !py-0">
         <div className="flex items-center justify-between">
           <a href="#home" className="flex items-center" onClick={handleNavLinkClick}>
-            <img src = "./logo.png" className="w-8 h-8 text-green-600" />
-            <span className="ml-2 text-xl font-bold font-serif">Vishnuspire</span>
+            <img src = "./logo.png" className="w-12  text-green-600" />
           </a>
           
           <nav className="hidden md:flex items-center space-x-8">
